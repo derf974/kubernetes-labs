@@ -1,5 +1,9 @@
 
-# Préparation de l'envirronement
+#Kubernetes-labs : Deploiement d'un application PHP/redis
+Basé sur ce tuto : [ici](https://cloud.google.com/kubernetes-engine/docs/tutorials/guestbook)
+
+
+## Préparation de l'envirronement
 ```
 docker run --rm -ti -v /Users/derf/.config/gcloud:/root/.config/gcloud -v $HOME/workspace/labs/kubernets/examples/guestbook:/apps google/cloud-sdk:alpine bash
 ```

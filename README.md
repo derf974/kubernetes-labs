@@ -1,5 +1,5 @@
 
-#Kubernetes-labs : Deploiement d'un application PHP/redis
+# Kubernetes-labs : Deploiement d'un application PHP/redis
 Basé sur ce tuto : [ici](https://cloud.google.com/kubernetes-engine/docs/tutorials/guestbook)
 
 
